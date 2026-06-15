@@ -1,0 +1,17 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+env/
+
+# Pickle/model files (large binaries — regenerate locally)
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
